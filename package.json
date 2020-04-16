@@ -1,0 +1,14 @@
+{
+  "name": "selenium-nodejs-mocha",
+  "version": "1.0.0",
+  "description": "Node js, selenium webdriver, geckodriver, mocha",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "geckodriver": "^1.19.1",
+    "mocha": "^7.1.1",
+    "npm": "^6.14.4",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
